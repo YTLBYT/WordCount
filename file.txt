@@ -1,2 +1,2 @@
-您好：
-	我的第一次git尝试！
+hello：
+	this is my first git test！
